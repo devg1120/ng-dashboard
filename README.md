@@ -2,12 +2,12 @@
 
 ## angular-admin-lte
 
-!(angular-admin-lte/Screenshot.png)
+![a](./angular-admin-lte/Screenshot.png)
 
 
 ## ngx-admin
 
-!(ngx-admin/Screenshot.png)
+![n](./ngx-admin/Screenshot.png)
 
 
 
